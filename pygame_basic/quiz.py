@@ -105,7 +105,7 @@ while running:
 
 # 잠시 대기
 #pygame.time.delay(2000) # 2초정도 대기 (ms)
-
+# dd    
 # pygame 종료
 pygame.quit()
  
